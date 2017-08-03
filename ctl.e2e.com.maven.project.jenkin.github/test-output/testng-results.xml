@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2017-08-03T19:50:08Z" finished-at="2017-08-03T19:50:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2017-08-03T19:50:08Z" finished-at="2017-08-03T19:50:08Z">
+      <class name="ctl.e2e.com.maven.project.ctl.e2e.com.maven.project.jenkin.github.JenkinGithubSampleMethod">
+        <test-method status="PASS" signature="jenkinGithubSampleMethod()[pri:0, instance:ctl.e2e.com.maven.project.ctl.e2e.com.maven.project.jenkin.github.JenkinGithubSampleMethod@523884b2]" name="jenkinGithubSampleMethod" duration-ms="19" started-at="2017-08-03T13:50:08Z" finished-at="2017-08-03T13:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkinGithubSampleMethod -->
+      </class> <!-- ctl.e2e.com.maven.project.ctl.e2e.com.maven.project.jenkin.github.JenkinGithubSampleMethod -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
