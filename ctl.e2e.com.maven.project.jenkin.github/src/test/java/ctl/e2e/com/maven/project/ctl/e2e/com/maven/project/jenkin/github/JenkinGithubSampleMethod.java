@@ -7,6 +7,8 @@ public class JenkinGithubSampleMethod {
 	public void jenkinGithubSampleMethod()
 	{
 		System.out.println("Jenking integration ");
+		
+		System.out.println("Jenking integration 2nd sop ");
 	}
 
 }
