@@ -7,6 +7,7 @@ public class MavenIntegrationWithJenkin {
 	public void sampleMavenJenkinMethod()
 	{
 		System.out.println("Hello sample Maven Jenkin Integration");
+		System.out.println("Hello sample Maven Jenkin Integration second time");
 	}
 
 }
